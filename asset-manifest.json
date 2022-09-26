@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.807036a5.css",
-    "main.js": "/static/js/main.e520c6ad.js",
-    "static/media/Vector.svg": "/static/media/Vector.2190fce3f913b7fa95afd06be3f41b52.svg",
-    "static/media/Congrat.svg": "/static/media/Congrat.dc30a3601aa899a385d14ef19c0324e8.svg",
-    "static/media/toggler.svg": "/static/media/toggler.c003593fd1b4bb6137996655e421c874.svg",
-    "index.html": "/index.html",
-    "main.807036a5.css.map": "/static/css/main.807036a5.css.map",
-    "main.e520c6ad.js.map": "/static/js/main.e520c6ad.js.map"
+    "main.css": "/demo-expense-app/static/css/main.807036a5.css",
+    "main.js": "/demo-expense-app/static/js/main.f8e49193.js",
+    "static/media/Vector.svg": "/demo-expense-app/static/media/Vector.2190fce3f913b7fa95afd06be3f41b52.svg",
+    "static/media/Congrat.svg": "/demo-expense-app/static/media/Congrat.dc30a3601aa899a385d14ef19c0324e8.svg",
+    "static/media/toggler.svg": "/demo-expense-app/static/media/toggler.c003593fd1b4bb6137996655e421c874.svg",
+    "index.html": "/demo-expense-app/index.html",
+    "main.807036a5.css.map": "/demo-expense-app/static/css/main.807036a5.css.map",
+    "main.f8e49193.js.map": "/demo-expense-app/static/js/main.f8e49193.js.map"
   },
   "entrypoints": [
     "static/css/main.807036a5.css",
-    "static/js/main.e520c6ad.js"
+    "static/js/main.f8e49193.js"
   ]
 }
